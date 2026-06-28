@@ -36,3 +36,4 @@ public class ShopController {
         return searchService.search(pattern);
     }
 }
+
